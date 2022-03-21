@@ -1,0 +1,55 @@
+$top: 38px;
+$left: 48px;
+
+.app {
+    width: 100vw;
+    height: 100vh;
+}
+
+.navbar {
+    position: fixed;
+    height: $top;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+.left-navbar {
+    position: fixed;
+    top: $top;
+    left: 0;
+    height: 100%;
+    width: $left;
+}
+
+.theme-navbar {
+    position: fixed;
+    height: $top;
+    top: $top;
+    left: $left;
+    width: 95%;
+}
+.main {
+    margin: $top*2 0 0 $left;
+    padding: 10px;
+}
+
+*::-webkit-scrollbar {
+    width: 11px;
+}
+
+*::-webkit-scrollbar-track {
+    border-radius: 8px;
+}
+
+*::-webkit-scrollbar-thumb {
+    height: 48px;
+    border-radius: 8px;
+    border: 3px solid transparent;
+    background-clip: content-box;
+    background-color: #666;
+}
+
+*::-webkit-scrollbar-thumb:hover {
+    background-color: #999;
+}

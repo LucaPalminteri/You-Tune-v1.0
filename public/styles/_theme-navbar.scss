@@ -1,0 +1,25 @@
+.theme-navbar {
+    background-color: rgba(255,255,255,.98);
+    border-top: 1px solid $grey;
+    border-bottom: 1px solid $grey;
+    padding: auto auto;
+}
+
+.theme-navbar__topic {
+    display: inline-block;
+    font-size: 9px;
+    padding: 0 5px;
+    width: auto;
+    font-weight: 200;
+    background-color: $light-grey;
+    border: 1px solid $grey;
+    padding: 4px 8px;
+    margin: 8px 4px;
+    border-radius: 20px;
+    transition-duration: .2s;
+
+    &:hover {
+        cursor: pointer;
+        background-color: $grey;
+    }
+}

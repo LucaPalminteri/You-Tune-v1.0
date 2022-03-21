@@ -1,0 +1,147 @@
+export default [
+    {
+        id:0,
+        image: "https://i.ytimg.com/vi/E6sIS9LZfKQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCWzNXLgnGjAsh0Z0XQ0aFGj43-ag",
+        imgLogo: "https://yt3.ggpht.com/bZG3op6EtnkX-T76qebLAHJHjd6mADbGk13QCHcBrFTzicSD3Q0wRjvhgKZ8HqkxNQM88lS6ow=s68-c-k-c0x00ffffff-no-rj",
+        title: "4 HOURS STUDY WITH ME on a RAINY Night",
+        author: "Merve",
+        views: "363K",
+        date: "10 months ago",
+        link: "https://www.youtube.com/watch?v=E6sIS9LZfKQ",
+        linkChan: "https://www.youtube.com/channel/UCkPgEucgqedbckpzC2EUwIA",
+        isVerfy: false,
+        isMusic: false
+    },
+    {
+        id:1,
+        image: "https://i.ytimg.com/vi/PhzhXdEEXO0/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDwSuHL3SAFNkDGluJJLb9zuXbgWA",
+        imgLogo: "https://i.pinimg.com/originals/73/0c/22/730c2294ac8a7e380f6cae90bce589e1.png",
+        title: "English Speakers Cannot Pronounce These Spanish Words",
+        author: "World Friends",
+        views: "169K",
+        date: "1 month ago",
+        link: "https://www.youtube.com/watch?v=PhzhXdEEXO0&t=1s",
+        linkChan: "https://www.youtube.com/channel/UC7QteRlErpm27bkZ6izFwKg",
+        isVerfy: false,
+        isMusic: false
+    },
+    {
+        id:2,
+        image: "https://i.ytimg.com/vi/KbYgRXJmi6k/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLABHugVrI0OawsgsUbVf10GJDYJ9Q",
+        imgLogo: "https://yt3.ggpht.com/ytc/AKedOLRYjiFWOmTdHiH7buTrsiXO0KrFscGLIw4EMckNkw=s88-c-k-c0x00ffffff-no-rj",
+        title: "2CELLOS - LIVE at Syndey Opera House [FULL CONCERT]",
+        author: "2CELLOS",
+        views: "132K",
+        date: "1 day ago",
+        link: "https://www.youtube.com/watch?v=KbYgRXJmi6k",
+        linkChan: "",
+        isVerfy: false,
+        isMusic: false
+    },
+    {
+        id:3,
+        image: "https://i.ytimg.com/vi/5Ueg8btpyxc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBcEJA_1RMGG0Ow0iILWG03a_L6hg",
+        imgLogo: "https://yt3.ggpht.com/fbKyfjHhYn6xv-8qxcIGNxlxOQ5jxN2gE8U5cEXD3fZw1lgJu0tfQKyBQ_SMYIebJTz-Nvc6gg=s88-c-k-c0x00ffffff-no-rj",
+        title: "Linkin Park Numb (Piano Shopping Mall)",
+        author: "Piano Rock",
+        views: "1.3M",
+        date: "3 months ago",
+        link: "https://www.youtube.com/watch?v=5Ueg8btpyxc",
+        linkChan: "https://www.youtube.com/channel/UCyjuFsbclXyntSRMBAILzbw",
+        isVerfy: false,
+        isMusic: false
+    },
+    {
+        id:4,
+        image: "https://i.ytimg.com/vi/ExsGyZDBlJQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBtCvkEZvDH7Re7PYpIv786FWnWaw",
+        imgLogo: "https://yt3.ggpht.com/ytc/AKedOLToU1sSfIWU5xGmwyGTWqP9iqY4MlgRolTMbTQeqg=s68-c-k-c0x00ffffff-no-rj",
+        title: "La ruta para aprender desarrollo web profesional",
+        author: "Platzi",
+        views: "1.2M views",
+        date: "3 years ago",
+        link: "https://www.youtube.com/watch?v=ExsGyZDBlJQ",
+        linkChan: "https://www.youtube.com/channel/UC55-mxUj5Nj3niXFReG44OQ",
+        isVerfy: false,
+        isMusic: false
+    },
+    {
+        id:5,
+        image: "https://i.ytimg.com/vi/RlaBTqv8tQs/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXp0p1HAosH7_3uReoDnpK7z7_ZA",
+        imgLogo: "https://yt3.ggpht.com/ytc/AKedOLSI8g2VvHoYNQbomi9pOFpyrS7m6KehuqE7Rxsyog=s88-c-k-c0x00ffffff-no-rj",
+        title: "Kygo - Dancing Feet (Official Video) ft. DNCE",
+        author: "KygoMusic",
+        views: "3.3M",
+        date: "2 weeks ago",
+        link: "https://www.youtube.com/watch?v=RlaBTqv8tQs",
+        linkChan: "https://www.youtube.com/channel/UCCFJeI-2sT_cWgz-QJRgbCw",
+        isVerfy: false,
+        isMusic: true
+    },
+    {
+        id:6,
+        image: "https://i.ytimg.com/vi/AVGX5gSmTe4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCi82kk-acmeAIEg2Kfzh2AqlZVMw",
+        imgLogo: "https://yt3.ggpht.com/ytc/AKedOLQ4CUCLFkYBntY-xQy1tPSsJ4bjegQRqHXodr8ehIM=s68-c-k-c0x00ffffff-no-rj",
+        title: "Dua Lipa toma una prueba de detector de mentiras | Verdad o mentira",
+        author: "GQ México y Latinoamérica",
+        views: "2M",
+        date: "7 months ago",
+        link: "https://www.youtube.com/watch?v=AVGX5gSmTe4",
+        linkChan: "https://www.youtube.com/channel/UCz62UYi3VqW06SpVvSXZJRg",
+        isVerfy: true,
+        isMusic: false
+    },
+    {
+        id:7,
+        image: "https://i.ytimg.com/vi/QjMJsQx_O7o/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDqJgP5o08crC3dAm4lQONVOkSspg",
+        imgLogo: "https://yt3.ggpht.com/eWMyO-gUMQaXCUElBmHUbO8YKlur6erITgt0InT3hv0ABhRnDU6QgQrHXws38MlQut6edQRe=s68-c-k-c0x00ffffff-no-rj",
+        title: "What A Day In A Programmers Life Is Actually Like",
+        author: "Kalle Hallden",
+        views: "1M",
+        date: "1 year ago",
+        link: "https://www.youtube.com/watch?v=QjMJsQx_O7o",
+        linkChan: "https://www.youtube.com/channel/UCWr0mx597DnSGLFk1WfvSkQ",
+        isVerfy: false,
+        isMusic: false
+    },
+    {
+        id:8,
+        image: "https://i.ytimg.com/vi/IBRyutPhq1o/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCs_qpv8oBkPVA4CzexLQAwZI2gqg",
+        imgLogo: "https://yt3.ggpht.com/ytc/AKedOLRtRlMPUhtGM6lE6gc7Mi1wtCNR2ahizTTeMMP1BQ=s68-c-k-c0x00ffffff-no-rj",
+        title: "TIAGO habló sobre el regreso de PAULO LONDRA",
+        author: "Daykon",
+        views: "13K",
+        date: "22 hours ago",
+        link: "https://www.youtube.com/watch?v=IBRyutPhq1o",
+        linkChan: "https://www.youtube.com/c/DaykonSsj",
+        isVerfy: true,
+        isMusic: false
+    }
+    ,
+    {
+        id:9,
+        image: "https://i.ytimg.com/vi/cweweR18y7s/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCL8-iuYZdyX5jbpMTRpZBIqNbqkA",
+        imgLogo: "https://yt3.ggpht.com/ytc/AKedOLSZvB1b2nBwx6iEtZo2QNGqtIQGzbACVY_lay0imA=s68-c-k-c0x00ffffff-no-rj",
+        title: "Violin de 5 cuerdas: Todo lo que debes saber. ¿cómo suenan? ¿Valen la pena?",
+        author: "Irazú Violín",
+        views: "52K",
+        date: "3 years ago",
+        link: "https://www.youtube.com/watch?v=cweweR18y7s",
+        linkChan: "https://www.youtube.com/channel/UCgWvJtvJ8LmzpR-CBwn0Abw",
+        isVerfy: false,
+        isMusic: false
+    }
+    // ,
+    // {
+    //     id:,
+    //     image: "",
+    //     imgLogo: "",
+    //     title: "",
+    //     author: "",
+    //     views: "",
+    //     date: "",
+    //     link: "",
+    //     isVerfy: false,
+    //     isMusic: false
+    // }
+]
+

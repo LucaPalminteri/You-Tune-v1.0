@@ -1,0 +1,27 @@
+.navbar {
+    background-color: rgba(255,255,255,.98);
+    display: flex;
+    align-items: center;
+}
+
+.navbar__logo {
+    margin: 0 0 0 48px;
+    width: 100px;
+}
+
+.navbar__input {
+    border: 1px solid $grey;
+    margin-left: 78px;
+    font-size: 10px;
+    height: 25px;
+    width: 375px;
+    border-radius: 2px 0 0 2px;
+    padding-left: 10px;
+}
+
+.navbar__btn {
+    height: 29px;
+    width: 40px;
+    border: 1px solid $grey;
+    border-radius: 0 2px 2px 0;
+}
