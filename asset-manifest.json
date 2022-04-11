@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/you-tune-v1.0/static/js/main.840b5d75.js",
-    "index.html": "/you-tune-v1.0/index.html",
-    "main.840b5d75.js.map": "/you-tune-v1.0/static/js/main.840b5d75.js.map"
+    "main.js": "/You-Tune-v1.0/static/js/main.840b5d75.js",
+    "index.html": "/You-Tune-v1.0/index.html",
+    "main.840b5d75.js.map": "/You-Tune-v1.0/static/js/main.840b5d75.js.map"
   },
   "entrypoints": [
     "static/js/main.840b5d75.js"
