@@ -1,0 +1,28 @@
+.left-navbar {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: $white;
+    margin-top: -20px;
+}
+
+.left-navbar__icon {
+    @include flex();
+    flex-direction: column;
+    text-align: center;
+    height: 80px;
+    width: 80px;
+    font-size: 10px;
+    transition-duration: .2s;
+
+    &:hover {
+        background-color: $grey;
+        cursor: pointer;
+    }
+}
+
+.icon {
+    height: 25px;
+    padding-bottom: 6px;
+}
