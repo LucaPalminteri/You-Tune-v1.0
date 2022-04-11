@@ -5,23 +5,23 @@
 }
 
 .navbar__logo {
-    margin: 0 0 0 48px;
+    margin: 0 0 0 80px;
     width: 100px;
 }
 
 .navbar__input {
     border: 1px solid $grey;
     margin-left: 78px;
-    font-size: 10px;
-    height: 25px;
-    width: 375px;
+    font-size: 16px;
+    height: 40px;
+    width: 35%;
     border-radius: 2px 0 0 2px;
     padding-left: 10px;
 }
 
 .navbar__btn {
-    height: 29px;
-    width: 40px;
+    height: 45px;
+    width: 80px;
     border: 1px solid $grey;
     border-radius: 0 2px 2px 0;
 }

@@ -10,9 +10,10 @@
 .left-navbar__icon {
     @include flex();
     flex-direction: column;
-    height: 48px;
-    width: 48px;
-    font-size: 6px;
+    text-align: center;
+    height: 80px;
+    width: 80px;
+    font-size: 10px;
     transition-duration: .2s;
 
     &:hover {
@@ -22,6 +23,6 @@
 }
 
 .icon {
-    height: 15px;
+    height: 25px;
     padding-bottom: 6px;
 }
